@@ -1,5 +1,7 @@
 # Gerador de Etiquetas Logísticas para E-commerce em Python
 
+![NLW - Be an Expert](https://github.com/EmersonPenelli/NLW_Expert_2024/blob/main/Wallpaper%20-%201920x1080.png)
+
 Bem-vindo ao repositório do curso de imersão em programação em Python, onde desenvolvemos um gerador de etiquetas logísticas para e-commerce. Este projeto permite a criação de etiquetas/códigos de barras únicos com base nas informações do destinatário, podendo ser impressos ou enviados diretamente para uma impressora térmica.
 
 ## Conteúdo do Curso
@@ -48,4 +50,3 @@ Na última aula, finalizaremos o projeto aplicando boas práticas de desenvolvim
    - Siga as boas práticas de organização e estruturação aprendidas na aula 02.
    - Implemente tratativas de erros e validações conforme discutido na aula 03.
 
-Lembre-se de explorar as diferentes funcionalidades do gerador de etiquetas logísticas e contribuir para o aprimoramento do projeto. Boa jornada no desenvolvimento Python! 🚀
